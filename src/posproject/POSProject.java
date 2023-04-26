@@ -14,8 +14,8 @@ public class POSProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-//        loginForm frame = new loginForm();
-        POSFrame frame = new POSFrame();
+       loginForm frame = new loginForm();
+//         POSFrame frame = new POSFrame();
         frame.setVisible(true);
     }
     
